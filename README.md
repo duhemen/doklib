@@ -1,4 +1,4 @@
-# APSO Ultimate - Aplikasi Surat Otomatis BP2JK Kalteng
+# APSO Ultimate - Aplikasi Surat Otomatis
 
 ## Deskripsi
 Aplikasi berbasis Streamlit untuk membuat surat dinas otomatis sesuai standar TNDE.
