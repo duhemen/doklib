@@ -1,2 +1,0 @@
-# doklib
-dokumen library
