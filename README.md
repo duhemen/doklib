@@ -10,7 +10,7 @@
 
 <div align="center">
   <h1>🚀 APSO Ultimate</h1>
-  <h3>Aplikasi Surat Otomatis - BP2JK Wilayah Kalimantan Tengah</h3>
+  <h3>Aplikasi Surat Otomatis</h3>
   <p><strong>Sesuai Standar TNDE (Tata Naskah Dinas Elektronik)</strong></p>
   
   <br>
@@ -43,7 +43,7 @@
 
 ### 🎯 Tentang APSO Ultimate
 
-**APSO Ultimate** (Aplikasi Surat Otomatis) adalah sistem berbasis web yang dirancang khusus untuk **BP2JK Wilayah Kalimantan Tengah** guna mengotomatiskan pembuatan surat dinas sesuai dengan **Standar TNDE (Tata Naskah Dinas Elektronik)**.
+**APSO Ultimate** (Aplikasi Surat Otomatis) adalah sistem berbasis web yang dirancang khusus untuk mengotomatiskan pembuatan surat dinas sesuai dengan **Standar TNDE (Tata Naskah Dinas Elektronik)**.
 
 Aplikasi ini mengeliminasi proses manual yang rentan error dengan menyediakan antarmuka yang intuitif untuk mengisi data surat, mengganti placeholder secara otomatis, dan menghasilkan dokumen Word yang siap pakai dengan format yang konsisten.
 
@@ -85,7 +85,7 @@ Aplikasi ini mengeliminasi proses manual yang rentan error dengan menyediakan an
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+### 🛠️ Teknologi yang Digunakan
 
 <div align="center">
   
@@ -120,7 +120,7 @@ Aplikasi ini mengeliminasi proses manual yang rentan error dengan menyediakan an
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/your-username/apso-ultimate.git
+git clone https://github.com/duhemen/doklib.git
 cd apso-ultimate
 ```
 
@@ -309,7 +309,7 @@ Kami menyambut kontribusi dari pengembang lain! Berikut panduan kontribusi:
 
 ### 1. Fork Repository
 ```bash
-git fork https://github.com/your-username/apso-ultimate.git
+git fork https://github.com/your-username/doklib.git
 ```
 
 ### 2. Buat Branch Fitur
