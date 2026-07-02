@@ -26,21 +26,6 @@
 
 ---
 
-## 📋 Daftar Isi
-
-- [Tentang APSO Ultimate](#-tentang-apso-ultimate)
-- [Fitur Unggulan](#-fitur-unggulan)
-- [Teknologi yang Digunakan](#-teknologi-yang-digunakan)
-- [Persyaratan Sistem](#-persyaratan-sistem)
-- [Instalasi](#-instalasi)
-- [Panduan Penggunaan](#-panduan-penggunaan)
-- [Struktur Proyek](#-struktur-proyek)
-- [Troubleshooting](#-troubleshooting)
-- [Kontribusi](#-kontribusi)
-- [Lisensi](#-lisensi)
-
----
-
 ### 🎯 Tentang APSO Ultimate
 
 **APSO Ultimate** (Aplikasi Surat Otomatis) adalah sistem berbasis web yang dirancang khusus untuk mengotomatiskan pembuatan surat dinas sesuai dengan **Standar TNDE (Tata Naskah Dinas Elektronik)**.
